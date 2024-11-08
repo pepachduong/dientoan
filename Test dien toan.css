@@ -285,9 +285,3 @@ justify-content: flex-end;
 
 }
 
-@media (max-width:991px){
-    html{
-        font-size: 50%;
-    }
-   
-    }
